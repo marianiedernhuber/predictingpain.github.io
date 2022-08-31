@@ -1,8 +1,6 @@
 # predicting_pain
 chronic pain study interface
 
-# Overview 
-
 The chronic pain study interface contains the following info 
 - a landing page where you can get access to different psychological tasks 
 - contact info of the experimenters 
