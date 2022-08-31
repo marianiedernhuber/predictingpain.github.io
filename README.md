@@ -1,5 +1,5 @@
-# predicting_pain
-chronic pain study interface
+# predicting_pain study info 
+Study portal for the experimental task "Predicting pain in CRPS"
 
 The chronic pain study interface contains the following info 
 - a landing page where you can get access to different psychological tasks 
@@ -8,7 +8,7 @@ The chronic pain study interface contains the following info
 - a page with instructions to use the EEG headband 
 
 
-# files 
+# File overview 
 
 - index.html contains links to the different tasks 
 - instructions.html contains instructions for each teask 
