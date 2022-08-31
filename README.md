@@ -1,5 +1,4 @@
-# predicting_pain study info 
-Study portal for the experimental task "Predicting pain in CRPS"
+# Study portal for the experimental task "Predicting pain in CRPS"
 
 The chronic pain study interface contains the following info 
 - a landing page where you can get access to different psychological tasks 
